@@ -1,15 +1,10 @@
 ### Screenshot
 
-![](./screenshot.jpg)
 Desktop
+![](/assets/images/desktop.png)
 
-![](./screenshot.jpg)
 Mobile
-
-![](./screenshot.jpg)
-Active State
-
-<!-- ### Links
+![](/assets/images/mobile.png)
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com) -->
